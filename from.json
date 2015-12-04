@@ -1,0 +1,4400 @@
+[
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/22305528",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:610536"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0008773",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000413",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000453",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000405",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011451",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011471",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0010880",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000272",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000347",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0008551",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011342",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000545",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000384",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001622",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0009623",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "EFTUD2"
+        },
+        "type": {
+          "id": "SO:0001587",
+          "label": "STOPGAIN"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 42929131,
+          "referenceBases": "G",
+          "referenceName": "17",
+          "start": 42929130
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0000079",
+    "label": "178_M43377",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/23542699",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:614261"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0100026",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003561",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011451",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0009879",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011097",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001263",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0012469",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001336",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000648",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001622",
+        "observed": "no"
+      },
+      {
+        "id": "HP:0000253",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001250",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0009882",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001857",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001518",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001285",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "STAMBP"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "G",
+          "assembly": "GRCh37",
+          "end": 74058108,
+          "referenceBases": "A",
+          "referenceName": "2",
+          "start": 74058107
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "STAMBP"
+        },
+        "type": {
+          "id": "SO:0001587",
+          "label": "STOPGAIN"
+        },
+        "variant": {
+          "alternateBases": "T",
+          "assembly": "GRCh37",
+          "end": 74074670,
+          "referenceBases": "C",
+          "referenceName": "2",
+          "start": 74074669
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0000083",
+    "label": "206_LR07-155a1",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/23181892",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:233400"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0001284",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003447",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001272",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002474",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001765",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011096",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0200070",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001761",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0007240",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000510",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0007141",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000407",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003474",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0009088",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "HSD17B4"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "C",
+          "assembly": "GRCh37",
+          "end": 118860954,
+          "referenceBases": "T",
+          "referenceName": "5",
+          "start": 118860953
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "HSD17B4"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "T",
+          "assembly": "GRCh37",
+          "end": 118792052,
+          "referenceBases": "C",
+          "referenceName": "5",
+          "start": 118792051
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0000282",
+    "label": "171_54987",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25105227",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:615960"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0008058",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0007033",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002194",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002281",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "LAMA1"
+        },
+        "type": {
+          "id": "SO:0001630",
+          "label": "SPLICING"
+        },
+        "variant": {
+          "alternateBases": "C",
+          "assembly": "GRCh37",
+          "end": 7050691,
+          "referenceBases": "A",
+          "referenceName": "18",
+          "start": 7050690
+        },
+        "zygosity": 2
+      }
+    ],
+    "id": "P0000333",
+    "label": "545_CA0035",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25589244",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [],
+    "features": [
+      {
+        "id": "HP:0001644",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003325",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000158",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002093",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002273",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0030284",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "LIMS2"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "C",
+          "assembly": "GRCh37",
+          "end": 128412081,
+          "referenceBases": "G",
+          "referenceName": "2",
+          "start": 128412080
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "LIMS2"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 128412067,
+          "referenceBases": "G",
+          "referenceName": "2",
+          "start": 128412066
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "LIMS2"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "G",
+          "assembly": "GRCh37",
+          "end": 128396914,
+          "referenceBases": "A",
+          "referenceName": "2",
+          "start": 128396913
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001009",
+    "label": "392_1-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25589244",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [],
+    "features": [
+      {
+        "id": "HP:0008981",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001644",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000158",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003701",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0030284",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "LIMS2"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "C",
+          "assembly": "GRCh37",
+          "end": 128412081,
+          "referenceBases": "G",
+          "referenceName": "2",
+          "start": 128412080
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "LIMS2"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 128412067,
+          "referenceBases": "G",
+          "referenceName": "2",
+          "start": 128412066
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "LIMS2"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "G",
+          "assembly": "GRCh37",
+          "end": 128396914,
+          "referenceBases": "A",
+          "referenceName": "2",
+          "start": 128396913
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001010",
+    "label": "392_2-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25370039",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:614665"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0010943",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0004401",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "GUCY2C"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "T",
+          "assembly": "GRCh37",
+          "end": 14794076,
+          "referenceBases": "C",
+          "referenceName": "12",
+          "start": 14794075
+        },
+        "zygosity": 2
+      }
+    ],
+    "id": "P0001011",
+    "label": "405_1-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25370039",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:614665"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0010943",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0004401",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "GUCY2C"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "T",
+          "assembly": "GRCh37",
+          "end": 14794076,
+          "referenceBases": "C",
+          "referenceName": "12",
+          "start": 14794075
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "GUCY2C"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "G",
+          "assembly": "GRCh37",
+          "end": 14772238,
+          "referenceBases": "A",
+          "referenceName": "12",
+          "start": 14772237
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001012",
+    "label": "405_2-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25330800",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [],
+    "features": [
+      {
+        "id": "HP:0007965",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0012430",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011185",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011198",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001263",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002079",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000252",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000639",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0012043",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001250",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000572",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "KARS"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 75665092,
+          "referenceBases": "G",
+          "referenceName": "16",
+          "start": 75665091
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "KARS"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "T",
+          "assembly": "GRCh37",
+          "end": 75662589,
+          "referenceBases": "C",
+          "referenceName": "16",
+          "start": 75662588
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001013",
+    "label": "169_1-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25330800",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [],
+    "features": [
+      {
+        "id": "HP:0001344",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0012430",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011198",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001263",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002079",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000639",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001250",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000505",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "KARS"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 75665092,
+          "referenceBases": "G",
+          "referenceName": "16",
+          "start": 75665091
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "KARS"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "T",
+          "assembly": "GRCh37",
+          "end": 75662589,
+          "referenceBases": "C",
+          "referenceName": "16",
+          "start": 75662588
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001014",
+    "label": "169_2-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25316601",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [],
+    "features": [
+      {
+        "id": "HP:0002059",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0100704",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011968",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001290",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002069",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001263",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002180",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002878",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "SYNJ1"
+        },
+        "type": {
+          "id": "SO:0001587",
+          "label": "STOPGAIN"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 34072338,
+          "referenceBases": "G",
+          "referenceName": "21",
+          "start": 34072337
+        },
+        "zygosity": 2
+      }
+    ],
+    "id": "P0001015",
+    "label": "245-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25130867",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:616007"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0008619",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000518",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002194",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0007067",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002857",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000824",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0005775",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000160",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011220",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003510",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000574",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002943",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "IARS2"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "T",
+          "assembly": "GRCh37",
+          "end": 220316451,
+          "referenceBases": "C",
+          "referenceName": "1",
+          "start": 220316450
+        },
+        "zygosity": 2
+      }
+    ],
+    "id": "P0001016",
+    "label": "96-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25105227",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:615960"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0002418",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011932",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001274",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002350",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0007033",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001320",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000750",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002198",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001090",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001270",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000639",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0030283",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011003",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000486",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002119",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "LAMA1"
+        },
+        "type": {
+          "id": "SO:0001630",
+          "label": "SPLICING"
+        },
+        "variant": {
+          "alternateBases": "G",
+          "assembly": "GRCh37",
+          "end": 6977723,
+          "referenceBases": "C",
+          "referenceName": "18",
+          "start": 6977722
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "LAMA1"
+        },
+        "type": {
+          "id": "SO:0001818",
+          "label": "MULTIEXON DELETION"
+        },
+        "variant": {
+          "assembly": "GRCh37",
+          "referenceName": "18"
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001017",
+    "label": "545_UW154-3-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25105227",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:615960"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0007980",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002350",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0007033",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001320",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002198",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001090",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001270",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000545",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000639",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000486",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "LAMA1"
+        },
+        "type": {
+          "id": "SO:0001630",
+          "label": "SPLICING"
+        },
+        "variant": {
+          "assembly": "GRCh37",
+          "referenceName": "18"
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "LAMA1"
+        },
+        "type": {
+          "id": "SO:0001589",
+          "label": "FRAMESHIFT"
+        },
+        "variant": {
+          "alternateBases": "T",
+          "assembly": "GRCh37",
+          "end": 7016493,
+          "referenceBases": "GT",
+          "referenceName": "18",
+          "start": 7016491
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001018",
+    "label": "545_UW162-3-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25105227",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:615960"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0004691",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002418",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0007980",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000646",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000729",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000518",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002350",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0007033",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001320",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000750",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002198",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001090",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001270",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001105",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011003",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0030285",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000486",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "LAMA1"
+        },
+        "type": {
+          "id": "SO:0001589",
+          "label": "FRAMESHIFT"
+        },
+        "variant": {
+          "alternateBases": "AGGG",
+          "assembly": "GRCh37",
+          "end": 6973132,
+          "referenceBases": "AGGGG",
+          "referenceName": "18",
+          "start": 6973127
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "LAMA1"
+        },
+        "type": {
+          "id": "SO:0001630",
+          "label": "SPLICING"
+        },
+        "variant": {
+          "alternateBases": "G",
+          "assembly": "GRCh37",
+          "end": 6948556,
+          "referenceBases": "C",
+          "referenceName": "18",
+          "start": 6948555
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "LAMA1"
+        },
+        "type": {
+          "id": "SO:0001630",
+          "label": "SPLICING"
+        },
+        "variant": {
+          "alternateBases": "T",
+          "assembly": "GRCh37",
+          "end": 7049076,
+          "referenceBases": "C",
+          "referenceName": "18",
+          "start": 7049075
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001019",
+    "label": "545_UW160-4-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25105227",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:615960"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0000479",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0007033",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001320",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000750",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002198",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001290",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0007068",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001270",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000545",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000657",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "LAMA1"
+        },
+        "type": {
+          "id": "SO:0001589",
+          "label": "FRAMESHIFT"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 7016663,
+          "referenceBases": "AAT",
+          "referenceName": "18",
+          "start": 7016660
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "LAMA1"
+        },
+        "type": {
+          "id": "SO:0001587",
+          "label": "STOPGAIN"
+        },
+        "variant": {
+          "alternateBases": "C",
+          "assembly": "GRCh37",
+          "end": 7050726,
+          "referenceBases": "A",
+          "referenceName": "18",
+          "start": 7050725
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001022",
+    "label": "545_UW163-3-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25105227",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:615960"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0000479",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0007033",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000533",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000750",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001290",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0007068",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001090",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001270",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000639",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000657",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011003",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000486",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "LAMA1"
+        },
+        "type": {
+          "id": "SO:0001589",
+          "label": "FRAMESHIFT"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 7016663,
+          "referenceBases": "AAT",
+          "referenceName": "18",
+          "start": 7016660
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "LAMA1"
+        },
+        "type": {
+          "id": "SO:0001587",
+          "label": "STOPGAIN"
+        },
+        "variant": {
+          "alternateBases": "C",
+          "assembly": "GRCh37",
+          "end": 7050726,
+          "referenceBases": "A",
+          "referenceName": "18",
+          "start": 7050725
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001023",
+    "label": "545_UW163-4-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25047197",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:117650"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0003002",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000218",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "SNRPB"
+        },
+        "type": {
+          "id": "SO:0001627",
+          "label": "INTRONIC"
+        },
+        "variant": {
+          "alternateBases": "G",
+          "assembly": "GRCh37",
+          "end": 2447952,
+          "referenceBases": "C",
+          "referenceName": "20",
+          "start": 2447951
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001024",
+    "label": "60_AII-1-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25047197",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:117650"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0000175",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011968",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0012418",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000201",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0030282",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001328",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "SNRPB"
+        },
+        "type": {
+          "id": "SO:0001627",
+          "label": "INTRONIC"
+        },
+        "variant": {
+          "alternateBases": "G",
+          "assembly": "GRCh37",
+          "end": 2447952,
+          "referenceBases": "C",
+          "referenceName": "20",
+          "start": 2447951
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001025",
+    "label": "60_AII-3-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25047197",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:117650"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0000878",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000670",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000494",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011968",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000218",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0030279",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000201",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0030282",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001328",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "SNRPB"
+        },
+        "type": {
+          "id": "SO:0001627",
+          "label": "INTRONIC"
+        },
+        "variant": {
+          "alternateBases": "G",
+          "assembly": "GRCh37",
+          "end": 2447952,
+          "referenceBases": "C",
+          "referenceName": "20",
+          "start": 2447951
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001026",
+    "label": "60_BII-1-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25047197",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:117650"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0002072",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000175",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000494",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000316",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002011",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000201",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0030282",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002091",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001257",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "SNRPB"
+        },
+        "type": {
+          "id": "SO:0001623",
+          "label": "3'UTR"
+        },
+        "variant": {
+          "alternateBases": "T",
+          "assembly": "GRCh37",
+          "end": 2447847,
+          "referenceBases": "G",
+          "referenceName": "20",
+          "start": 2447846
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001027",
+    "label": "60_CII-2-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25047197",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:117650"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0012306",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000453",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000175",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000476",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001631",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001040",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000201",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002650",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000465",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "SNRPB"
+        },
+        "type": {
+          "id": "SO:0001624",
+          "label": "3'UTR"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 2451408,
+          "referenceBases": "G",
+          "referenceName": "20",
+          "start": 2451407
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001029",
+    "label": "60_DII-1-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25047197",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:117650"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0000765",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000218",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000201",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "SNRPB"
+        },
+        "type": {
+          "id": "SO:0001627",
+          "label": "INTRONIC"
+        },
+        "variant": {
+          "alternateBases": "G",
+          "assembly": "GRCh37",
+          "end": 2447952,
+          "referenceBases": "C",
+          "referenceName": "20",
+          "start": 2447951
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001030",
+    "label": "60_EI-1-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25047197",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:117650"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0000175",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000405",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000824",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000201",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0030282",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002650",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "SNRPB"
+        },
+        "type": {
+          "id": "SO:0001627",
+          "label": "INTRONIC"
+        },
+        "variant": {
+          "alternateBases": "G",
+          "assembly": "GRCh37",
+          "end": 2447952,
+          "referenceBases": "C",
+          "referenceName": "20",
+          "start": 2447951
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001049",
+    "label": "60_EII-2-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25047197",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:117650"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0002025",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000175",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0100543",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000201",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002650",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000883",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "SNRPB"
+        },
+        "type": {
+          "id": "SO:0001627",
+          "label": "INTRONIC"
+        },
+        "variant": {
+          "alternateBases": "G",
+          "assembly": "GRCh37",
+          "end": 2447953,
+          "referenceBases": "C",
+          "referenceName": "20",
+          "start": 2447952
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001052",
+    "label": "60_FI-2-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25047197",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:117650"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0030300",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000175",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001631",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011968",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0004719",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000201",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0030282",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002093",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "SNRPB"
+        },
+        "type": {
+          "id": "SO:0001627",
+          "label": "INTRONIC"
+        },
+        "variant": {
+          "alternateBases": "G",
+          "assembly": "GRCh37",
+          "end": 2447953,
+          "referenceBases": "C",
+          "referenceName": "20",
+          "start": 2447952
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001053",
+    "label": "60_FII-1-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25047197",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:117650"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0030300",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000175",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000204",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000201",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0030282",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002880",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002650",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "SNRPB"
+        },
+        "type": {
+          "id": "SO:0001627",
+          "label": "INTRONIC"
+        },
+        "variant": {
+          "alternateBases": "G",
+          "assembly": "GRCh37",
+          "end": 2447952,
+          "referenceBases": "C",
+          "referenceName": "20",
+          "start": 2447951
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001054",
+    "label": "60_HII-1-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25047197",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:117650"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0000405",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001631",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011968",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000540",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000201",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0030282",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002880",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002650",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000486",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "SNRPB"
+        },
+        "type": {
+          "id": "SO:0001627",
+          "label": "INTRONIC"
+        },
+        "variant": {
+          "alternateBases": "G",
+          "assembly": "GRCh37",
+          "end": 2447953,
+          "referenceBases": "C",
+          "referenceName": "20",
+          "start": 2447952
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001055",
+    "label": "60_III-1-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25047197",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:117650"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0000878",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000175",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000405",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000201",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0030282",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002650",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000883",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "SNRPB"
+        },
+        "type": {
+          "id": "SO:0001627",
+          "label": "INTRONIC"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 2447846,
+          "referenceBases": "G",
+          "referenceName": "20",
+          "start": 2447845
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001056",
+    "label": "60_JII-1-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/24903190",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:245570"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0011347",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000337",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0009765",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000272",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000160",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000639",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0007930",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001250",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011344",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003196",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "GRIN2A"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "C",
+          "assembly": "GRCh37",
+          "end": 9862854,
+          "referenceBases": "T",
+          "referenceName": "16",
+          "start": 9862853
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001057",
+    "label": "C1039-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/24706940",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:250220"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0030306",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001999",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002104",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011675",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001230",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0006009",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003180",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002866",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003025",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000926",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0008905",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0010049",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0008416",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0005257",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "GPX4"
+        },
+        "type": {
+          "id": "SO:0001630",
+          "label": "SPLICING"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 1105813,
+          "referenceBases": "G",
+          "referenceName": "19",
+          "start": 1105812
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "GPX4"
+        },
+        "type": {
+          "id": "SO:0001589",
+          "label": "FRAMESHIFT"
+        },
+        "variant": {
+          "alternateBases": "C",
+          "assembly": "GRCh37",
+          "end": 1106237,
+          "referenceBases": "CTTTTC",
+          "referenceName": "19",
+          "start": 1106231
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001058",
+    "label": "350_1-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/24706940",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:250220"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0005108",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001678",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001321",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0009879",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0004273",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003180",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001290",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002123",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002079",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000946",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0100255",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003375",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000926",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002880",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001248",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "GPX4"
+        },
+        "type": {
+          "id": "SO:0001587",
+          "label": "STOPGAIN"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 1105455,
+          "referenceBases": "C",
+          "referenceName": "19",
+          "start": 1105454
+        },
+        "zygosity": 2
+      }
+    ],
+    "id": "P0001059",
+    "label": "350_2-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/24669931",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [],
+    "features": [
+      {
+        "id": "HP:0200128",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003546",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003738",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003348",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002151",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011664",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0006970",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "GARS"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "T",
+          "assembly": "GRCh37",
+          "end": 30671863,
+          "referenceBases": "C",
+          "referenceName": "7",
+          "start": 30671862
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "GARS"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 30668263,
+          "referenceBases": "G",
+          "referenceName": "7",
+          "start": 30668262
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001060",
+    "label": "258I-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/24651605",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:615273"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0100022",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000522",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0010605",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002019",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002353",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0006254",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002910",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002171",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001263",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001395",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001252",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0009830",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0012520",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0006579",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000495",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001315",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001250",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001773",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0200055",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "NGLY1"
+        },
+        "type": {
+          "id": "SO:0001589",
+          "label": "FRAMESHIFT"
+        },
+        "variant": {
+          "alternateBases": "TGG",
+          "assembly": "GRCh37",
+          "end": 25761027,
+          "referenceBases": "TGGG",
+          "referenceName": "3",
+          "start": 25761023
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "NGLY1"
+        },
+        "type": {
+          "id": "SO:0001587",
+          "label": "STOPGAIN"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 25775422,
+          "referenceBases": "T",
+          "referenceName": "3",
+          "start": 25775421
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001069",
+    "label": "162_1-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/24651605",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:615273"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0100022",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000522",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002019",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002353",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002910",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001263",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002151",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001511",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000252",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001252",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0009830",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000495",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001315",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002650",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "NGLY1"
+        },
+        "type": {
+          "id": "SO:0001589",
+          "label": "FRAMESHIFT"
+        },
+        "variant": {
+          "alternateBases": "TCCCCCC",
+          "assembly": "GRCh37",
+          "end": 25773869,
+          "referenceBases": "TCCCCC",
+          "referenceName": "3",
+          "start": 25773863
+        },
+        "zygosity": 2
+      }
+    ],
+    "id": "P0001070",
+    "label": "162_2-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/24651605",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:615273"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0006958",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0100022",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000522",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0010605",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002019",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0012448",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002353",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0006254",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002910",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002171",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001263",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001395",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002151",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001511",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001252",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0012520",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0006579",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000495",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001315",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002650",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001250",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001773",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0200055",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000486",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "NGLY1"
+        },
+        "type": {
+          "id": "SO:0001587",
+          "label": "STOPGAIN"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 25775422,
+          "referenceBases": "T",
+          "referenceName": "3",
+          "start": 25775421
+        },
+        "zygosity": 2
+      }
+    ],
+    "id": "P0001071",
+    "label": "162_4-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/24651605",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:615273"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0002418",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0100022",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000522",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0009085",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002019",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002353",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0006254",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000286",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001263",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000218",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002151",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001511",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000252",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000347",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001252",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0009830",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0006579",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000508",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001315",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002650",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001250",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001773",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003196",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0200055",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0009891",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002119",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "NGLY1"
+        },
+        "type": {
+          "id": "SO:0001587",
+          "label": "STOPGAIN"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 25775422,
+          "referenceBases": "T",
+          "referenceName": "3",
+          "start": 25775421
+        },
+        "zygosity": 2
+      }
+    ],
+    "id": "P0001076",
+    "label": "162_5-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/24651605",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:615273"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0100022",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0006956",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002353",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000286",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001263",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001395",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001511",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000252",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001252",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0006579",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003196",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "NGLY1"
+        },
+        "type": {
+          "id": "SO:0001587",
+          "label": "STOPGAIN"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 25775422,
+          "referenceBases": "T",
+          "referenceName": "3",
+          "start": 25775421
+        },
+        "zygosity": 2
+      }
+    ],
+    "id": "P0001078",
+    "label": "162_6-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/24651605",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:615273"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0100022",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000522",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0010605",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011918",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001864",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002019",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002910",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000286",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002007",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001263",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002557",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000252",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001252",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000657",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0006579",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0005487",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001315",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000486",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001182",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0010804",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "NGLY1"
+        },
+        "type": {
+          "id": "SO:0001587",
+          "label": "STOPGAIN"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 25775422,
+          "referenceBases": "T",
+          "referenceName": "3",
+          "start": 25775421
+        },
+        "zygosity": 2
+      }
+    ],
+    "id": "P0001079",
+    "label": "162_7-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/24651605",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:615273"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0100022",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000522",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002019",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000678",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002353",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001263",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002553",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001511",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0005320",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000252",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001252",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000657",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000520",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000495",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001315",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002650",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001250",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001773",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0200055",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000486",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000431",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "NGLY1"
+        },
+        "type": {
+          "id": "SO:0001587",
+          "label": "STOPGAIN"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 25775422,
+          "referenceBases": "T",
+          "referenceName": "3",
+          "start": 25775421
+        },
+        "zygosity": 2
+      }
+    ],
+    "id": "P0001080",
+    "label": "162_8-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/24479948",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:604317"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0000718",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0010864",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000252",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001250",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "WDR62"
+        },
+        "type": {
+          "id": "SO:0001589",
+          "label": "FRAMESHIFT"
+        },
+        "variant": {
+          "alternateBases": "CTTTT",
+          "assembly": "GRCh37",
+          "end": 36579992,
+          "referenceBases": "CTTT",
+          "referenceName": "19",
+          "start": 36579988
+        },
+        "zygosity": 2
+      }
+    ],
+    "id": "P0001081",
+    "label": "167-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/24468074",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:601338"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0007965",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001251",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0008619",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001260",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002066",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001254",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001252",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000639",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000648",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002370",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "ATP1A3"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "T",
+          "assembly": "GRCh37",
+          "end": 42474427,
+          "referenceBases": "C",
+          "referenceName": "19",
+          "start": 42474426
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001084",
+    "label": "161-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/24357594",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:182212"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0002410",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001166",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0010665",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001363",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001631",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000494",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002474",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000218",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0006801",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000316",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001265",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002151",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0006889",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001388",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000369",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000347",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002868",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001655",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000768",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001763",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0011220",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000278",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000319",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003298",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003396",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001762",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001537",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "SKI"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 2160552,
+          "referenceBases": "G",
+          "referenceName": "1",
+          "start": 2160551
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001085",
+    "label": "216-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/23835272",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:614105"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0001344",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000463",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0010055",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0012448",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0006956",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0040155",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0045034",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000286",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002007",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001263",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002281",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000348",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000218",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000316",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002079",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0007793",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002912",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0012120",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001252",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003196",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000322",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000954",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0008070",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0010804",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "ALDH6A1"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "G",
+          "assembly": "GRCh37",
+          "end": 74538114,
+          "referenceBases": "A",
+          "referenceName": "14",
+          "start": 74538113
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "ALDH6A1"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 74527350,
+          "referenceBases": "G",
+          "referenceName": "14",
+          "start": 74527349
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001086",
+    "label": "258A-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/23810382",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:269880"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0000490",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000684",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0009125",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0007495",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000558",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0004322",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000325",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000430",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "PIK3R1"
+        },
+        "type": {
+          "id": "SO:0001589",
+          "label": "FRAMESHIFT"
+        },
+        "variant": {
+          "alternateBases": "AC",
+          "assembly": "GRCh37",
+          "end": 67592090,
+          "referenceBases": "A",
+          "referenceName": "5",
+          "start": 67592089
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001091",
+    "label": "182-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/23621916",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:613680"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0000670",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000490",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000689",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0009890",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000348",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000085",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002342",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0003189",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0009765",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000252",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000545",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001643",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0012745",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000179",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000215",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000582",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "THOC6"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 3075805,
+          "referenceBases": "G",
+          "referenceName": "16",
+          "start": 3075804
+        },
+        "zygosity": 2
+      }
+    ],
+    "id": "P0001105",
+    "label": "323-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/23171239",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:612541"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0000230",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0012138",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0004866",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0004854",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001888",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001875",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0005401",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000403",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000010",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001744",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "G6PC3"
+        },
+        "type": {
+          "id": "SO:0001587",
+          "label": "STOPGAIN"
+        },
+        "variant": {
+          "alternateBases": "T",
+          "assembly": "GRCh37",
+          "end": 42153199,
+          "referenceBases": "C",
+          "referenceName": "17",
+          "start": 42153198
+        },
+        "zygosity": 2
+      }
+    ],
+    "id": "P0001106",
+    "label": "160-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/23423984",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:243150"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0011100",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0005214",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001539",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "TTC7A"
+        },
+        "type": {
+          "id": "SO:0001630",
+          "label": "SPLICING"
+        },
+        "variant": {
+          "alternateBases": "T",
+          "assembly": "GRCh37",
+          "end": 47221659,
+          "referenceBases": "TAAGT",
+          "referenceName": "2",
+          "start": 47221654
+        },
+        "zygosity": 2
+      }
+    ],
+    "id": "P0001107",
+    "label": "87-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/25282101",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [],
+    "features": [
+      {
+        "id": "HP:0001662",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001508",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0005214",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001649",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "SGOL1"
+        },
+        "type": {
+          "id": "SO:0001583",
+          "label": "MISSENSE"
+        },
+        "variant": {
+          "alternateBases": "C",
+          "assembly": "GRCh37",
+          "end": 20225453,
+          "referenceBases": "T",
+          "referenceName": "3",
+          "start": 20225452
+        },
+        "zygosity": 2
+      }
+    ],
+    "id": "P0001108",
+    "label": "94-test",
+    "test": true
+  },
+  {
+    "contact": {
+      "href": "http://www.ncbi.nlm.nih.gov/pubmed/24651605",
+      "institution": "Children's Hospital of Eastern Ontario",
+      "name": "Lijia Huang"
+    },
+    "disorders": [
+      {
+        "id": "MIM:615273"
+      }
+    ],
+    "features": [
+      {
+        "id": "HP:0006958",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0100022",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000522",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002059",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0010605",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002019",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002353",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002910",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001263",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001395",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002079",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0030303",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002151",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000252",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001252",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000657",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0006579",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0001773",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0002472",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0200055",
+        "observed": "yes"
+      },
+      {
+        "id": "HP:0000486",
+        "observed": "yes"
+      }
+    ],
+    "genomicFeatures": [
+      {
+        "gene": {
+          "id": "NGLY1"
+        },
+        "type": {
+          "id": "SO:0001822",
+          "label": "INFRAME-DELETION"
+        },
+        "variant": {
+          "alternateBases": "G",
+          "assembly": "GRCh37",
+          "end": 25775418,
+          "referenceBases": "GTTC",
+          "referenceName": "3",
+          "start": 25775414
+        },
+        "zygosity": 1
+      },
+      {
+        "gene": {
+          "id": "NGLY1"
+        },
+        "type": {
+          "id": "SO:0001587",
+          "label": "STOPGAIN"
+        },
+        "variant": {
+          "alternateBases": "A",
+          "assembly": "GRCh37",
+          "end": 25761670,
+          "referenceBases": "G",
+          "referenceName": "3",
+          "start": 25761669
+        },
+        "zygosity": 1
+      }
+    ],
+    "id": "P0001135",
+    "label": "162_3-test",
+    "test": true
+  }
+]
